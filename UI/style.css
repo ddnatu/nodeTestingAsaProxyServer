@@ -1,0 +1,11 @@
+body{
+	margin:0;
+}
+.division1{
+	height: 70px;
+	background-color: blue;
+}
+.division2{
+	height: 70px;
+	background-color: red;
+}
